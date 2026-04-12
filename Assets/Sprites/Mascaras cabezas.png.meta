@@ -1,0 +1,1353 @@
+fileFormatVersion: 2
+guid: 90778bec3fb0aeb4aa6912d9604af7f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3265110680610658199
+    second: Mascaras cabezas_0
+  - first:
+      213: -9170854751781099472
+    second: Mascaras cabezas_1
+  - first:
+      213: 8692124626831975025
+    second: Mascaras cabezas_2
+  - first:
+      213: 8223640851446055545
+    second: Mascaras cabezas_3
+  - first:
+      213: 1768641402262268137
+    second: Mascaras cabezas_4
+  - first:
+      213: -4726343579497205399
+    second: Mascaras cabezas_5
+  - first:
+      213: 4518180508458187780
+    second: Mascaras cabezas_6
+  - first:
+      213: -5692629284330783758
+    second: Mascaras cabezas_7
+  - first:
+      213: -4667924935919205205
+    second: Mascaras cabezas_8
+  - first:
+      213: 7184450658250002643
+    second: Mascaras cabezas_9
+  - first:
+      213: 4086968694351211300
+    second: Mascaras cabezas_10
+  - first:
+      213: -2601229462418396631
+    second: Mascaras cabezas_11
+  - first:
+      213: 2728987327227787200
+    second: Mascaras cabezas_12
+  - first:
+      213: 1322784470144876257
+    second: Mascaras cabezas_13
+  - first:
+      213: -919405172235392114
+    second: Mascaras cabezas_14
+  - first:
+      213: -124206836365479605
+    second: Mascaras cabezas_15
+  - first:
+      213: -3371044361136868656
+    second: Mascaras cabezas_16
+  - first:
+      213: 183724671794533603
+    second: Mascaras cabezas_17
+  - first:
+      213: 132527891772707311
+    second: Mascaras cabezas_18
+  - first:
+      213: -8523201273497829505
+    second: Mascaras cabezas_19
+  - first:
+      213: -175093542071989824
+    second: Mascaras cabezas_20
+  - first:
+      213: 8701365237531820657
+    second: Mascaras cabezas_21
+  - first:
+      213: 5182955527161510089
+    second: Mascaras cabezas_22
+  - first:
+      213: 789536394911422259
+    second: Mascaras cabezas_23
+  - first:
+      213: -6933472024444852112
+    second: Mascaras cabezas_24
+  - first:
+      213: 1147947524092173282
+    second: Mascaras cabezas_25
+  - first:
+      213: 8482108502999867883
+    second: Mascaras cabezas_26
+  - first:
+      213: 6952604518924703708
+    second: Mascaras cabezas_27
+  - first:
+      213: 3229883040491025829
+    second: Mascaras cabezas_28
+  - first:
+      213: 8569531389092877507
+    second: Mascaras cabezas_29
+  - first:
+      213: 4314848803152205324
+    second: Mascaras cabezas_30
+  - first:
+      213: 2497263723970283132
+    second: Mascaras cabezas_31
+  - first:
+      213: 2868083624119324209
+    second: Mascaras cabezas_32
+  - first:
+      213: 7451796288484897389
+    second: Mascaras cabezas_33
+  - first:
+      213: 6216832781697748160
+    second: Mascaras cabezas_34
+  - first:
+      213: 2568754416987443528
+    second: Mascaras cabezas_35
+  - first:
+      213: -1816652557349667256
+    second: Mascaras cabezas_36
+  - first:
+      213: 3276101520922842843
+    second: Mascaras cabezas_37
+  - first:
+      213: 6628958037188048421
+    second: Mascaras cabezas_38
+  - first:
+      213: -4091465332793560036
+    second: Mascaras cabezas_39
+  - first:
+      213: -1136296859277771249
+    second: Mascaras cabezas_40
+  - first:
+      213: -8818796907454676534
+    second: Mascaras cabezas_41
+  - first:
+      213: -6562393622570575866
+    second: Mascaras cabezas_42
+  - first:
+      213: -288567457281134998
+    second: Mascaras cabezas_43
+  - first:
+      213: 4581455280053144233
+    second: Mascaras cabezas_44
+  - first:
+      213: -4968705555009573362
+    second: Mascaras cabezas_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mascaras cabezas_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 613
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9682ed1a22fffa2d0800000000000000
+      internalID: -3265110680610658199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 616
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038626941349ab080800000000000000
+      internalID: -9170854751781099472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 617
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172aeb59b41a0a870800000000000000
+      internalID: 8692124626831975025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_3
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 615
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97245de98cd302270800000000000000
+      internalID: 8223640851446055545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_4
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 617
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e824e41cf97b8810800000000000000
+      internalID: 1768641402262268137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_5
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 616
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961fe914e87a86eb0800000000000000
+      internalID: -4726343579497205399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_6
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 619
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c7ebdeb3dc3be30800000000000000
+      internalID: 4518180508458187780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_7
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 598
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb3a75a3d7bff0b0800000000000000
+      internalID: -5692629284330783758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_8
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 590
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba40954a003383fb0800000000000000
+      internalID: -4667924935919205205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_9
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 612
+        width: 45
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0105f0fcb44b360800000000000000
+      internalID: 7184450658250002643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_10
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 606
+        width: 45
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b22f2bf54d7b830800000000000000
+      internalID: 4086968694351211300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_11
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 614
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a6549f59396ebd0800000000000000
+      internalID: -2601229462418396631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_12
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 614
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c774fbe38f4fd520800000000000000
+      internalID: 2728987327227787200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_13
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 582
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee736997797b5210800000000000000
+      internalID: 1322784470144876257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_14
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 490
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ba048fddd9d33f0800000000000000
+      internalID: -919405172235392114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_15
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 492
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41b2c75a8ab64ef0800000000000000
+      internalID: -124206836365479605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_16
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 490
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d27a5c9305a731d0800000000000000
+      internalID: -3371044361136868656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_17
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 492
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4d9c69d98bc8200800000000000000
+      internalID: 183724671794533603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_18
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 490
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe191f75a65d6d100800000000000000
+      internalID: 132527891772707311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_19
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 488
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f3100899187b980800000000000000
+      internalID: -8523201273497829505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_20
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 488
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c98556e951f19df0800000000000000
+      internalID: -175093542071989824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_21
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 488
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172440ce49571c870800000000000000
+      internalID: 8701365237531820657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_22
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 488
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8fb1b679e8de740800000000000000
+      internalID: 5182955527161510089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_23
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 493
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33710f30b2ff4fa00800000000000000
+      internalID: 789536394911422259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_24
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 490
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0782bdacdeb57cf90800000000000000
+      internalID: -6933472024444852112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_25
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 488
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb9d4ae0345eef00800000000000000
+      internalID: 1147947524092173282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_26
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 483
+        width: 47
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1a0ab4eb086b570800000000000000
+      internalID: 8482108502999867883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_27
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 484
+        width: 47
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7584639fc9c7060800000000000000
+      internalID: 6952604518924703708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_28
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 483
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5b68e3389d2dc20800000000000000
+      internalID: 3229883040491025829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_29
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 477
+        width: 47
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4d07225671de670800000000000000
+      internalID: 8569531389092877507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_30
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 483
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06186b102c61eb30800000000000000
+      internalID: 4314848803152205324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_31
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 471
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76c7b9302018a220800000000000000
+      internalID: 2497263723970283132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_32
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 490
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e4fb14cda7dc720800000000000000
+      internalID: 2868083624119324209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_33
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 285
+        width: 44
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6277b93e391a6760800000000000000
+      internalID: 7451796288484897389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_34
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 286
+        width: 48
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc091d0a70a64650800000000000000
+      internalID: 6216832781697748160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_35
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 271
+        width: 47
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84190cb488c06a320800000000000000
+      internalID: 2568754416987443528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_36
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 289
+        width: 46
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e3ed6cf14f9c6e0800000000000000
+      internalID: -1816652557349667256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_37
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 302
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd619bac9fc077d20800000000000000
+      internalID: 3276101520922842843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_38
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 305
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526709d863acefb50800000000000000
+      internalID: 6628958037188048421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_39
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 302
+        width: 45
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14b30415f13837c0800000000000000
+      internalID: -4091465332793560036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_40
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 305
+        width: 46
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e3b5fd6001b30f0800000000000000
+      internalID: -1136296859277771249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_41
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 86
+        width: 47
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1c9d8cfe65d9580800000000000000
+      internalID: -8818796907454676534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_42
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 42
+        width: 39
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6085462f4c1bde4a0800000000000000
+      internalID: -6562393622570575866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_43
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 86
+        width: 47
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e250f2d6dcefbf0800000000000000
+      internalID: -288567457281134998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_44
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 50
+        width: 43
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aac7e9bd49949f30800000000000000
+      internalID: 4581455280053144233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mascaras cabezas_45
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 33
+        width: 46
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ee4208f9c9b0bb0800000000000000
+      internalID: -4968705555009573362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 80b654814fef10844b304adb896907fa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mascaras cabezas_0: -3265110680610658199
+      Mascaras cabezas_1: -9170854751781099472
+      Mascaras cabezas_10: 4086968694351211300
+      Mascaras cabezas_11: -2601229462418396631
+      Mascaras cabezas_12: 2728987327227787200
+      Mascaras cabezas_13: 1322784470144876257
+      Mascaras cabezas_14: -919405172235392114
+      Mascaras cabezas_15: -124206836365479605
+      Mascaras cabezas_16: -3371044361136868656
+      Mascaras cabezas_17: 183724671794533603
+      Mascaras cabezas_18: 132527891772707311
+      Mascaras cabezas_19: -8523201273497829505
+      Mascaras cabezas_2: 8692124626831975025
+      Mascaras cabezas_20: -175093542071989824
+      Mascaras cabezas_21: 8701365237531820657
+      Mascaras cabezas_22: 5182955527161510089
+      Mascaras cabezas_23: 789536394911422259
+      Mascaras cabezas_24: -6933472024444852112
+      Mascaras cabezas_25: 1147947524092173282
+      Mascaras cabezas_26: 8482108502999867883
+      Mascaras cabezas_27: 6952604518924703708
+      Mascaras cabezas_28: 3229883040491025829
+      Mascaras cabezas_29: 8569531389092877507
+      Mascaras cabezas_3: 8223640851446055545
+      Mascaras cabezas_30: 4314848803152205324
+      Mascaras cabezas_31: 2497263723970283132
+      Mascaras cabezas_32: 2868083624119324209
+      Mascaras cabezas_33: 7451796288484897389
+      Mascaras cabezas_34: 6216832781697748160
+      Mascaras cabezas_35: 2568754416987443528
+      Mascaras cabezas_36: -1816652557349667256
+      Mascaras cabezas_37: 3276101520922842843
+      Mascaras cabezas_38: 6628958037188048421
+      Mascaras cabezas_39: -4091465332793560036
+      Mascaras cabezas_4: 1768641402262268137
+      Mascaras cabezas_40: -1136296859277771249
+      Mascaras cabezas_41: -8818796907454676534
+      Mascaras cabezas_42: -6562393622570575866
+      Mascaras cabezas_43: -288567457281134998
+      Mascaras cabezas_44: 4581455280053144233
+      Mascaras cabezas_45: -4968705555009573362
+      Mascaras cabezas_46: 941598809
+      Mascaras cabezas_5: -4726343579497205399
+      Mascaras cabezas_6: 4518180508458187780
+      Mascaras cabezas_7: -5692629284330783758
+      Mascaras cabezas_8: -4667924935919205205
+      Mascaras cabezas_9: 7184450658250002643
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
