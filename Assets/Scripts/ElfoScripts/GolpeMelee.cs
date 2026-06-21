@@ -1,24 +1,26 @@
 using UnityEngine;
-using UnityEngine.U2D;
+using UnityEngine.Serialization;
 
 public class GolpeMelee : MonoBehaviour
 {
-    [Header("Configuración de Ataque")]
-    public Transform controladorGolpe; // Arrastra un objeto vacío situado frente al jugador
+    [Header("Configuraciï¿½n de Ataque")]
+    public Transform controladorGolpe; // Arrastra un objeto vacio situado frente al jugador
     public Transform radioGolpe;
     public Transform radioAgarre;
     public float sizeGolpe;
-    public float daño = 20f;
+    public float daÃ±o = 20f;
     public float tiempoEntreAtaques = 0.5f;
     private float tiempoSiguienteAtaque = 0f;
     public float posControlador;
     public KeyCode teclAtaque = KeyCode.E;
     public KeyCode teclAgarre = KeyCode.Q;
     private Animator anim;
+    
     [Header("Knockback")]
     public float fuerzaEmpuje = 5f;
-    [Header("Configuración de Agarre")]
-    public Transform puntoAgarre; // Objeto vacío donde se posicionará el enemigo agarrado
+    
+    [Header("ConfiguraciÃ³n de Agarre")]
+    public Transform puntoAgarre; // Objeto vacio donde se posicionarï¿½ el enemigo agarrado
     public float fuerzaLanzamiento = 5f;
     private VidaSacoBox enemigoAgarrado; // Referencia al enemigo actual
     public bool tieneAlguien = false;
@@ -37,8 +39,7 @@ public class GolpeMelee : MonoBehaviour
     
     void Update()
     {
-    
-        // Si presionas 'E' (o el botón que elijas)
+        // Si presionas 'E' (o el botï¿½n que elijas)
         if (Input.GetKeyDown(teclAgarre))
         {
             if (!tieneAlguien)
@@ -52,10 +53,8 @@ public class GolpeMelee : MonoBehaviour
         }
         // Solo ataca si ha pasado el tiempo de cooldown
 
-        if (Input.GetKeyDown(teclAtaque) &&tiempoSiguienteAtaque<=0&&tieneAlguien==false) 
-            {
-                
-
+        if (Input.GetKeyDown(teclAtaque) && tiempoSiguienteAtaque<=0 && tieneAlguien == false) 
+            { 
                 Golpear();
                 print("Golpeando");
                 tiempoSiguienteAtaque = tiempoEntreAtaques;
@@ -73,7 +72,7 @@ public class GolpeMelee : MonoBehaviour
     private void Golpear()
     {
 
-        // Opcional: Activar animación de ataque aquí
+        // Opcional: Activar animaciï¿½n de ataque aquï¿½
         anim.SetTrigger("Atacando");
 
         // Detectar enemigos en el rango de golpe
@@ -91,21 +90,13 @@ public class GolpeMelee : MonoBehaviour
             // 2. Verificas que 'ff' (el script) no sea nulo
             if (ff != null)
             {
-                // 3. LLAMAS AL MÉTODO DESDE 'ff', NO DESDE 'enemigo'
+                // 3. LLAMAS AL MeTODO DESDE 'ff', NO DESDE 'enemigo'
                 ff.TomarDano(20f);
                 float diferenciaY = ff.transform.position.y - transform.position.y;
                 Vector2 dir = new Vector2(0, 1); // Empuje puramente hacia arriba
                 ff.AplicarKnockback(dir, fuerzaEmpuje);
 
             }
-           
-
-            /*Vector2 direccionEmpuje = new Vector2 (0, diferenciaY+20).normalized;
-            // Si el juego es 2D lateral, puedes forzar que solo sea en X:
-            //Vector2 direccionEmpuje = new Vector2(direccionEmpuje.y, 0.2f).normalized;
-
-           ff.AplicarKnockback(direccionEmpuje, fuerzaEmpuje);*/
-
         }
     }
 
@@ -124,7 +115,7 @@ public class GolpeMelee : MonoBehaviour
                 enemigoAgarrado = enemigo;
                 tieneAlguien = true;
 
-                // Desactivamos sus físicas para que no pelee con el movimiento del jugador
+                // Desactivamos sus fï¿½sicas para que no pelee con el movimiento del jugador
                 enemigoAgarrado.GetComponent<Rigidbody2D>().simulated = false;
 
                 // Lo ponemos en el punto de agarre y lo hacemos hijo del jugador
@@ -142,7 +133,7 @@ public class GolpeMelee : MonoBehaviour
         // Lo soltamos (quitamos el padre)
         enemigoAgarrado.transform.SetParent(null);
 
-        // Reactivamos sus físicas
+        // Reactivamos sus fï¿½sicas
         Rigidbody2D rbEnemigo = enemigoAgarrado.GetComponent<Rigidbody2D>();
         rbEnemigo.simulated = true;
 
@@ -157,7 +148,7 @@ public class GolpeMelee : MonoBehaviour
         enemigoAgarrado = null;
     }
 
-    // Dibuja el círculo en el editor para que puedas ajustarlo visualmente
+    // Dibuja el cï¿½rculo en el editor para que puedas ajustarlo visualmente
     private void OnDrawGizmosSelected()
     {
         Gizmos.color = Color.red;

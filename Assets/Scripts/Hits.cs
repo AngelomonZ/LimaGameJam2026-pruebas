@@ -6,13 +6,11 @@ public class Hits : MonoBehaviour
     private Animator animator;
     private PlayerInput playerInput;
 
-    // Acciones específicas para combate
+    // Acciones especificas para combate
     private InputAction softHitAction;
     private InputAction hardHitAction;
     private InputAction parryAction;
     private InputAction grabAction;
-
-    private bool isAttacking = false;
 
     private void Awake()
     {
@@ -20,7 +18,7 @@ public class Hits : MonoBehaviour
         playerInput = GetComponent<PlayerInput>();
 
         // BUSCAMOS LAS ACCIONES EN EL COMPONENTE LOCAL (Igual que en Movement)
-        // Asegúrate que estos nombres coincidan con tu Input Actions
+        // Asegï¿½rate que estos nombres coincidan con tu Input Actions
         softHitAction = playerInput.actions["SoftHit"];
         hardHitAction = playerInput.actions["HardHit"];
         parryAction = playerInput.actions["Parry"];
@@ -57,8 +55,8 @@ public class Hits : MonoBehaviour
 
     private void PerformAttack(string type)
     {
-        // Aquí podrías activar una corrutina para resetear 'isAttacking' tras X tiempo
-        // Por ahora, solo lanzamos la animación.
+        // Aquï¿½ podrï¿½as activar una corrutina para resetear 'isAttacking' tras X tiempo
+        // Por ahora, solo lanzamos la animaciï¿½n.
 
         switch (type)
         {
@@ -77,10 +75,5 @@ public class Hits : MonoBehaviour
                 break;
         }
     }
-
-    // Método opcional para llamar desde un Animation Event al final de la animación de ataque
-    public void FinishAttack()
-    {
-        isAttacking = false;
-    }
+    
 }

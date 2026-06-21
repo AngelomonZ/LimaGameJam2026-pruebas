@@ -31,7 +31,7 @@ public class VidaBoxeoKB : MonoBehaviour
     {
         if (recibiendoKnockback) return;
 
-        // Si la dirección tiene fuerza en Y, activamos el salto simulado
+        // Si la direccion tiene fuerza en Y, activamos el salto simulado
         if (Mathf.Abs(direccion.y) > 0.1f)
         {
             StartCoroutine(SaltoPorDano(direccion.y * fuerza));
@@ -61,7 +61,7 @@ public class VidaBoxeoKB : MonoBehaviour
 
         transcurrido = 0;
 
-        // BAJADA (Regresa a la posición original)
+        // BAJADA (Regresa a la posicion original)
         while (transcurrido < tiempoAnimacion)
         {
             // Se mueve hacia abajo con la misma fuerza

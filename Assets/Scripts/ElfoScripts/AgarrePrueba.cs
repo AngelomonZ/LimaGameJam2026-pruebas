@@ -1,11 +1,12 @@
 using UnityEngine;
+using UnityEngine.Serialization;
 
 public class AgarrePrueba : MonoBehaviour
 {
-    public Transform controladorGolpe; // Arrastra un objeto vacío situado frente al jugador
+    public Transform controladorGolpe; // Arrastra un objeto vacï¿½o situado frente al jugador
     public Transform radioAgarre;
     public float sizeGolpe;
-    public float daño = 20f;
+    public float damage = 20f;
     public float tiempoEntreAtaques = 0.5f;
     private float tiempoSiguienteAtaque = 0f;
     public float posControlador;
@@ -13,8 +14,8 @@ public class AgarrePrueba : MonoBehaviour
     private Animator anim;
     [Header("Knockback")]
     public float fuerzaEmpuje = 5f;
-    [Header("Configuración de Agarre")]
-    public Transform puntoAgarre; // Objeto vacío donde se posicionará el enemigo agarrado
+    [Header("Configuraciï¿½n de Agarre")]
+    public Transform puntoAgarre; // Objeto vacï¿½o donde se posicionarï¿½ el enemigo agarrado
     public float fuerzaLanzamiento = 5f;
     private VidaSacoBox enemigoAgarrado; // Referencia al enemigo actual
     public bool tieneAlguien = false;
@@ -33,7 +34,7 @@ public class AgarrePrueba : MonoBehaviour
     void Update()
     {
 
-        // Si presionas 'E' (o el botón que elijas)
+        // Si presionas 'E' (o el botï¿½n que elijas)
         if (Input.GetKeyDown(teclAgarre))
         {
             if (!tieneAlguien)
@@ -73,7 +74,7 @@ public class AgarrePrueba : MonoBehaviour
                 enemigoAgarrado = enemigo;
                 tieneAlguien = true;
 
-                // Desactivamos sus físicas para que no pelee con el movimiento del jugador
+                // Desactivamos sus fï¿½sicas para que no pelee con el movimiento del jugador
                 enemigoAgarrado.GetComponent<Rigidbody2D>().simulated = false;
 
                 // Lo ponemos en el punto de agarre y lo hacemos hijo del jugador
@@ -91,7 +92,7 @@ public class AgarrePrueba : MonoBehaviour
         // Lo soltamos (quitamos el padre)
         enemigoAgarrado.transform.SetParent(null);
 
-        // Reactivamos sus físicas
+        // Reactivamos sus fisicas
         Rigidbody2D rbEnemigo = enemigoAgarrado.GetComponent<Rigidbody2D>();
         rbEnemigo.simulated = true;
 
